@@ -1,0 +1,31 @@
+{
+    "name": "vendemy/employees",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vendemy.com",
+            "email": "info@vendemy.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Employees\\": "",
+            "Modules\\Employees\\App\\": "app/",
+            "Modules\\Employees\\Database\\Factories\\": "database/factories/",
+            "Modules\\Employees\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Employees\\Tests\\": "tests/"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+<button id="changeButton" class="btn bg-primary-subtle text-primary" type="submit" data-request="onSaveAvatar">Change</button>

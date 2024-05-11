@@ -1,0 +1,11 @@
+{
+    "name": "EmployeeTeams",
+    "alias": "employeeteams",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EmployeeTeams\\App\\Providers\\EmployeeTeamsServiceProvider"
+    ],
+    "files": []
+}
